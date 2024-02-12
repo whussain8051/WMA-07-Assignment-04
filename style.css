@@ -39,6 +39,9 @@
     color: black;
     padding: 20px;
 }
+#btn-side a:hover{
+    color: orangered;
+}
 
 #welcome-text {
     width: 50%;
